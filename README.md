@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available on [github](github)
+- 👨‍💻 All of my projects are available on github
 
 - 📝 I regularly provide updates on [https://www.linkedin.com/in/itsakdwivedi/](https://www.linkedin.com/in/itsakdwivedi/)
 
-- 💬 Ask me about **anything related to MERN stack**
+- 💬 Ask me about **anything related to MERN stack or DSA**
 
 - 📫 How to reach me **akdvar2003@gmail.com**
 
