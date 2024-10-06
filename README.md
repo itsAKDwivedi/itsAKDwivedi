@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsakdwivedi" alt="itsakdwivedi" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning to build **DeFi Apps** using Web3.
 
 - 👨‍💻 All of my projects are available on github
 
 - 📝 I regularly provide updates on [https://www.linkedin.com/in/itsakdwivedi/](https://www.linkedin.com/in/itsakdwivedi/)
 
-- 💬 Ask me about **anything related to MERN stack or DSA**
+- 💬 Open for conversations related to **Software Engineering**
 
 - 📫 How to reach me **akdvar2003@gmail.com**
 
