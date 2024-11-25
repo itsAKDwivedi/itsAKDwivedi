@@ -13,7 +13,7 @@
 
 - 💬 Open for conversations related to **Software Engineering**
 
-- 📫 How to reach me **akdvar2003@gmail.com**
+- 📫 How to reach me **ayush.dwivedi7493@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W1ofrKTZjw-WfoOjzI9A_0R4VCoZHPOk/view?usp=sharing](https://drive.google.com/file/d/1W1ofrKTZjw-WfoOjzI9A_0R4VCoZHPOk/view?usp=sharing)
 
