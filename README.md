@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsakdwivedi" alt="itsakdwivedi" /></a> </p>
 
-- 🌱 I’m currently learning to build **DeFi Apps** using Web3.
+- 🌱 I’m currently learning ML.
 
 - 👨‍💻 All of my projects are available on github
 
